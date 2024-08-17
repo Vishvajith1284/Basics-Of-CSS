@@ -1,0 +1,48 @@
+nav{
+    background-color: gray;
+    color:white;
+    padding:10px;
+}
+ul,li,h2{
+    display: inline;
+}
+h2{
+    padding-right: 60%;
+}
+li:hover,h2:hover{
+    color:black;
+    cursor: pointer;
+}
+.SearchBar{
+    padding:30px;
+    text-align: center;
+}
+input{
+    width:75%;
+    padding:10px;
+}
+.one{
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    width:200px;
+    margin: 30px;
+}
+.College{
+    text-align: center;
+}
+.one:hover{
+    background:aliceblue;
+    color:black;
+    cursor: pointer;
+}
+.AboutUs{
+    text-align: center;
+    padding:20px;
+}
+.ContactUs{
+    text-align: center;
+    background-color: lightgray;
+    color:black;
+}
